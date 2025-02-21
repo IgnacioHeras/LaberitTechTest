@@ -53,7 +53,7 @@ curl -X GET http://localhost:3000/duacoders/0000
 
 ### List All Duacoders with Pagination
 ```bash
-curl -X GET "http://localhost:3000/duacoders/list?page=1&limit=10"
+curl -X GET "http://localhost:3000/duacoders/list"
 ```
 
 ### Delete a duacoder
